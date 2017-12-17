@@ -14,6 +14,8 @@ def derivative_descent(x):
 
     middleMan = 0.01  # This man can't be too big or too small because the decent will be either moving slow or overshoot.
     x = x - derivative * middleMan # I think it is better to write it as -derivative * middleMan+x
+    #Momentum or I call it friction
+    #x = mu**v-derivative * middleMan
     return x
 
 
