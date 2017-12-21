@@ -2,10 +2,207 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a003ae74-83c8-4387-ad1a-d82bcd7af064" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ThinkLikeAHuman.iml" afterPath="$PROJECT_DIR$/.idea/ThinkLikeAHuman.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Forward/BackwardAPI.py" afterPath="$PROJECT_DIR$/Main/Forward/BackwardAPI.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Forward/ForwardBackWardAPI.py" afterPath="$PROJECT_DIR$/Main/Forward/ForwardBackWardAPI.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Gradient Descent.py" afterPath="$PROJECT_DIR$/Main/Gradient Descent.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/GradientDescentTwoVar.py" afterPath="$PROJECT_DIR$/Main/GradientDescentTwoVar.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/0.jpg" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/0.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/1.jpg" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/10.jpg" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/2.jpg" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/3.jpg" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/4.jpg" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/5.jpg" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/6.jpg" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/7.jpg" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/8.jpg" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/9.jpg" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/DataPack/UnPackFile.py" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/DataPack/UnPackFile.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/DataPack/__init__.py" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/DataPack/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/DataPack/data_batch_1" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/DataPack/data_batch_1" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/DataPack/data_batch_2" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/DataPack/data_batch_2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/DataPack/data_batch_3" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/DataPack/data_batch_3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/DataPack/data_batch_4" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/DataPack/data_batch_4" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/DataPack/data_batch_5" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/DataPack/data_batch_5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/Lec2.py" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/Lec2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/`UnPackFile.py" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/`UnPackFile.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/data_batch_1" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/data_batch_1" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/data_batch_2" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/data_batch_2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/ef.jpg" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/ef.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/simpleTraining.py" afterPath="$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/simpleTraining.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/MiniBatchGradientDescent.py" afterPath="$PROJECT_DIR$/Main/MiniBatchGradientDescent.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Mul.py" afterPath="$PROJECT_DIR$/Main/Mul.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Network.py" afterPath="$PROJECT_DIR$/Main/Network.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/NeuralNetworkExample.py" afterPath="$PROJECT_DIR$/Main/NeuralNetworkExample.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/NeuralNetworkNote/DataPreprocessingNote.py" afterPath="$PROJECT_DIR$/Main/NeuralNetworkNote/DataPreprocessingNote.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/NeuralNetworkNote/GradientUpdateNote.py" afterPath="$PROJECT_DIR$/Main/NeuralNetworkNote/DifferentGradientNote.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/NeuralNetworkNote/LearningNote.py" afterPath="$PROJECT_DIR$/Main/NeuralNetworkNote/LearningNote.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/NeuralNetworkNote/Note1.py" afterPath="$PROJECT_DIR$/Main/NeuralNetworkNote/Note1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/NeuralNetworkNote/TrainingNeural.py" afterPath="$PROJECT_DIR$/Main/NeuralNetworkNote/TrainingNeural.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/UnPackFile.py" afterPath="$PROJECT_DIR$/Main/UnPackFile.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Vectorized.py" afterPath="$PROJECT_DIR$/Main/Vectorized.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/Xavier_initialization.py" afterPath="$PROJECT_DIR$/Main/Xavier_initialization.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/basic.jpg" afterPath="$PROJECT_DIR$/Main/basic.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/batches.meta" afterPath="$PROJECT_DIR$/Main/batches.meta" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/c1/cifar-10-batches-py/batches.meta" afterPath="$PROJECT_DIR$/Main/c1/cifar-10-batches-py/batches.meta" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/c1/cifar-10-batches-py/data_batch_1" afterPath="$PROJECT_DIR$/Main/c1/cifar-10-batches-py/data_batch_1" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/c1/cifar-10-batches-py/data_batch_2" afterPath="$PROJECT_DIR$/Main/c1/cifar-10-batches-py/data_batch_2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/c1/cifar-10-batches-py/data_batch_3" afterPath="$PROJECT_DIR$/Main/c1/cifar-10-batches-py/data_batch_3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/c1/cifar-10-batches-py/data_batch_4" afterPath="$PROJECT_DIR$/Main/c1/cifar-10-batches-py/data_batch_4" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/c1/cifar-10-batches-py/data_batch_5" afterPath="$PROJECT_DIR$/Main/c1/cifar-10-batches-py/data_batch_5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/c1/cifar-10-batches-py/readme.html" afterPath="$PROJECT_DIR$/Main/c1/cifar-10-batches-py/readme.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/c1/cifar-10-batches-py/test_batch" afterPath="$PROJECT_DIR$/Main/c1/cifar-10-batches-py/test_batch" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/data_batch_1" afterPath="$PROJECT_DIR$/Main/data_batch_1" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/data_batch_2" afterPath="$PROJECT_DIR$/Main/data_batch_2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/data_batch_3" afterPath="$PROJECT_DIR$/Main/data_batch_3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/data_batch_4" afterPath="$PROJECT_DIR$/Main/data_batch_4" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/data_batch_5" afterPath="$PROJECT_DIR$/Main/data_batch_5" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/0 (1).jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/0 (1).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/0 (2).jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/0 (2).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/0 (3).jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/0 (3).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/0.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/0.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/0ea8b893d313ba240f0139e7a19435d58bb489fe.png" afterPath="$PROJECT_DIR$/Main/intejbackground/0ea8b893d313ba240f0139e7a19435d58bb489fe.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/1.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/1368513388864.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/1368513388864.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/153_130708131910_4.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/153_130708131910_4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/159a7fa11fcd9797.png" afterPath="$PROJECT_DIR$/Main/intejbackground/159a7fa11fcd9797.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/17.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/17.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/18.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/18.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/19.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/19.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/1IgPUXX.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/1IgPUXX.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/2.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/20.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/20.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/2017-03-02.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/2017-03-02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/21.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/21.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/22.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/22.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/23.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/23.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/3.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/38PbzUC.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/38PbzUC.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/4 (1).jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/4 (1).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/4.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/5zShaLf.png" afterPath="$PROJECT_DIR$/Main/intejbackground/5zShaLf.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/9UPCE8o.png" afterPath="$PROJECT_DIR$/Main/intejbackground/9UPCE8o.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/AndroidSetting.jar" afterPath="$PROJECT_DIR$/Main/intejbackground/AndroidSetting.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Black.png" afterPath="$PROJECT_DIR$/Main/intejbackground/Black.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/C6VythkU0AAwwuq.png" afterPath="$PROJECT_DIR$/Main/intejbackground/C6VythkU0AAwwuq.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/DataStruNote/Image1.py" afterPath="$PROJECT_DIR$/Main/intejbackground/DataStruNote/Image1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/DataStruNote/cat1.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/DataStruNote/cat1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/DataStruNote/cat_tinted.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/DataStruNote/cat_tinted.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/DataStruNote/imging.py" afterPath="$PROJECT_DIR$/Main/intejbackground/DataStruNote/imging.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/DataStruNote/merge_sort_recursion.png" afterPath="$PROJECT_DIR$/Main/intejbackground/DataStruNote/merge_sort_recursion.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/DataStruNote/power.png" afterPath="$PROJECT_DIR$/Main/intejbackground/DataStruNote/power.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Fs7xrGY.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/Fs7xrGY.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/InLove.png" afterPath="$PROJECT_DIR$/Main/intejbackground/InLove.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Konachan.com - 105693 sample.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/Konachan.com - 105693 sample.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Konachan.com - 234274 sample.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/Konachan.com - 234274 sample.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Konachan.com - 235334 sample.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/Konachan.com - 235334 sample.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Konachan.com - 237695 sample.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/Konachan.com - 237695 sample.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Konachan.com - 240902 2girls anmi aqua_eyes barefoot blush bow breasts brown_hair original see_through seifuku short_hair skirt water wet.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/Konachan.com - 240902 2girls anmi aqua_eyes barefoot blush bow breasts brown_hair original see_through seifuku short_hair skirt water wet.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Konachan.com - 241091 sample.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/Konachan.com - 241091 sample.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Konachan.com - 241878 sample.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/Konachan.com - 241878 sample.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/LoveBackground.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/LoveBackground.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Mit5ZS0 (1).jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/Mit5ZS0 (1).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Mit5ZS0.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/Mit5ZS0.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/N2HUeu8.png" afterPath="$PROJECT_DIR$/Main/intejbackground/N2HUeu8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Nekomonogatari (Shiro) - 05 (BD 1280x720 AVC AACx2)[(020599)2017-04-05-13-26-42].JPG" afterPath="$PROJECT_DIR$/Main/intejbackground/Nekomonogatari (Shiro) - 05 (BD 1280x720 AVC AACx2)[(020599)2017-04-05-13-26-42].JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/RCJhM2P.png" afterPath="$PROJECT_DIR$/Main/intejbackground/RCJhM2P.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/README.md" afterPath="$PROJECT_DIR$/Main/intejbackground/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Screenshot_20170416-201109.png" afterPath="$PROJECT_DIR$/Main/intejbackground/Screenshot_20170416-201109.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Screenshot_20170416-201132.png" afterPath="$PROJECT_DIR$/Main/intejbackground/Screenshot_20170416-201132.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Screenshot_20170416-201238.png" afterPath="$PROJECT_DIR$/Main/intejbackground/Screenshot_20170416-201238.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Screenshot_20170416-201423.png" afterPath="$PROJECT_DIR$/Main/intejbackground/Screenshot_20170416-201423.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Scu3jYK.png" afterPath="$PROJECT_DIR$/Main/intejbackground/Scu3jYK.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Tea.png" afterPath="$PROJECT_DIR$/Main/intejbackground/Tea.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/Tea2.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/Tea2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/TheShapeOfSound.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/TheShapeOfSound.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/alone.png" afterPath="$PROJECT_DIR$/Main/intejbackground/alone.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/bANcsrA.png" afterPath="$PROJECT_DIR$/Main/intejbackground/bANcsrA.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/birds.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/birds.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/black.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/black.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/black1.png" afterPath="$PROJECT_DIR$/Main/intejbackground/black1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/boom.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/boom.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/bun.png" afterPath="$PROJECT_DIR$/Main/intejbackground/bun.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/cat.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/cat.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/clothes.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/clothes.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/dDIP7Ah.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/dDIP7Ah.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/donlook.png" afterPath="$PROJECT_DIR$/Main/intejbackground/donlook.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/double.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/double.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/eat.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/eat.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/eybWbw1.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/eybWbw1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/fly.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/fly.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/forrest.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/forrest.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/forrest.png" afterPath="$PROJECT_DIR$/Main/intejbackground/forrest.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/forrest1.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/forrest1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/gf.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/gf.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/gf1.png" afterPath="$PROJECT_DIR$/Main/intejbackground/gf1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/hKInrQe.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/hKInrQe.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/hand.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/hand.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/hdmlx4y.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/hdmlx4y.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/icon.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/icon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/icon.png" afterPath="$PROJECT_DIR$/Main/intejbackground/icon.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/jyamTqJ.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/jyamTqJ.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/kL3MAKc (1).png" afterPath="$PROJECT_DIR$/Main/intejbackground/kL3MAKc (1).png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/katana.png" afterPath="$PROJECT_DIR$/Main/intejbackground/katana.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/leaf.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/leaf.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/life.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/life.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/little.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/little.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/loli.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/loli.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/lonely.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/lonely.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/lonelylove.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/lonelylove.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/n1.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/n1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/n4GHqOU (1).jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/n4GHqOU (1).jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/n4GHqOU.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/n4GHqOU.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/nevergiveup.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/nevergiveup.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/nevergiveup1.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/nevergiveup1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/nhk.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/nhk.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/night.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/night.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/night1.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/night1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/nightsky.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/nightsky.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/normal.jar" afterPath="$PROJECT_DIR$/Main/intejbackground/normal.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/oduBPwc.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/oduBPwc.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/painting.JPG" afterPath="$PROJECT_DIR$/Main/intejbackground/painting.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/painting1.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/painting1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/rain.jpeg" afterPath="$PROJECT_DIR$/Main/intejbackground/rain.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/red.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/red.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/red2.png" afterPath="$PROJECT_DIR$/Main/intejbackground/red2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/s1ADPRx.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/s1ADPRx.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/saber.jpeg" afterPath="$PROJECT_DIR$/Main/intejbackground/saber.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/scv8IIU.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/scv8IIU.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/settings.jar" afterPath="$PROJECT_DIR$/Main/intejbackground/settings.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/shorts4.png" afterPath="$PROJECT_DIR$/Main/intejbackground/shorts4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/singer.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/singer.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/snow.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/snow.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/swimming.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/swimming.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/sword.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/sword.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/sword1.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/sword1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/swordl.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/swordl.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/tGsIL0a.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/tGsIL0a.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/tYeVBPv.png" afterPath="$PROJECT_DIR$/Main/intejbackground/tYeVBPv.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/train.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/train.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/tree.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/tree.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/twin.png" afterPath="$PROJECT_DIR$/Main/intejbackground/twin.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/unbella.jpg" afterPath="$PROJECT_DIR$/Main/intejbackground/unbella.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/water.png" afterPath="$PROJECT_DIR$/Main/intejbackground/water.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/web.jar" afterPath="$PROJECT_DIR$/Main/intejbackground/web.jar" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/intejbackground/wish.png" afterPath="$PROJECT_DIR$/Main/intejbackground/wish.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec1/1.py" afterPath="$PROJECT_DIR$/Main/lec1/1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec1/BasicTrain.py" afterPath="$PROJECT_DIR$/Main/lec1/BasicTrain.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec1/Image1.py" afterPath="$PROJECT_DIR$/Main/lec1/Image1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec1/KK.py" afterPath="$PROJECT_DIR$/Main/lec1/KK.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec1/NN.py" afterPath="$PROJECT_DIR$/Main/lec1/NN.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec1/UnPackFile.py" afterPath="$PROJECT_DIR$/Main/lec1/UnPackFile.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec1/__init__.py" afterPath="$PROJECT_DIR$/Main/lec1/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec1/cat1.jpg" afterPath="$PROJECT_DIR$/Main/lec1/cat1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec1/cat_tinted.jpg" afterPath="$PROJECT_DIR$/Main/lec1/cat_tinted.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec1/imging.py" afterPath="$PROJECT_DIR$/Main/lec1/imging.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec3/A first very bad idea solution_Random search.py" afterPath="$PROJECT_DIR$/Main/lec3/A first very bad idea solution_Random search.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec3/GradientPart2.py" afterPath="$PROJECT_DIR$/Main/lec3/GradientPart2.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec3/Gradient_back_drop_note.py" afterPath="$PROJECT_DIR$/Main/lec3/Gradient_back_drop_note.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec3/MaxtrixGradien_note.py" afterPath="$PROJECT_DIR$/Main/lec3/MaxtrixGradien_note.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/lec3/Two_Gradient_Numerically.py" afterPath="$PROJECT_DIR$/Main/lec3/Two_Gradient_Numerically.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/readme.html" afterPath="$PROJECT_DIR$/Main/readme.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/2016/test_batch" afterPath="$PROJECT_DIR$/Main/test_batch" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2016/Gradient Descent.py" afterPath="$PROJECT_DIR$/2016/Gradient Descent.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -45,10 +242,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="LearningNote.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2016/NeuralNetworkNote/LearningNote.py">
+        <entry file="file://$PROJECT_DIR$/Main/NeuralNetworkNote/LearningNote.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+            <state relative-caret-position="391">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="e#55#73#0" expanded="true" />
               </folding>
@@ -56,20 +253,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GradientUpdateNote.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2016/NeuralNetworkNote/GradientUpdateNote.py">
+      <file leaf-file-name="DifferentGradientNote.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main/NeuralNetworkNote/DifferentGradientNote.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+            <state relative-caret-position="986">
+              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Note1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2016/NeuralNetworkNote/Note1.py">
+        <entry file="file://$PROJECT_DIR$/Main/NeuralNetworkNote/Note1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
+            <state relative-caret-position="136">
               <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -78,20 +275,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gradient Descent.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2016/Gradient Descent.py">
+      <file leaf-file-name="Note8.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main/Note8.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FrameworkNote.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main/lec8/FrameworkNote.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GradientPart2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Main/lec3/GradientPart2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gradient Descent.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Main/Gradient Descent.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="GradientDescentTwoVar.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2016/GradientDescentTwoVar.py">
+        <entry file="file://$PROJECT_DIR$/Main/GradientDescentTwoVar.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="119">
               <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
@@ -178,6 +405,9 @@
         <option value="$PROJECT_DIR$/2016/NeuralNetworkNote/LearningNote.py" />
         <option value="$PROJECT_DIR$/2016/Gradient Descent.py" />
         <option value="$PROJECT_DIR$/2016/NeuralNetworkNote/GradientUpdateNote.py" />
+        <option value="$PROJECT_DIR$/2016/NeuralNetworkNote/DifferentGradientNote.py" />
+        <option value="$PROJECT_DIR$/2016/Note8.py" />
+        <option value="$PROJECT_DIR$/Main/lec8/FrameworkNote.py" />
       </list>
     </option>
   </component>
@@ -188,10 +418,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="488" />
-    <option name="y" value="103" />
-    <option name="width" value="1430" />
-    <option name="height" value="923" />
+    <option name="x" value="294" />
+    <option name="y" value="307" />
+    <option name="width" value="1350" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -211,6 +441,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -233,7 +464,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2016" />
+              <option name="myItemId" value="Main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -247,17 +478,16 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="2016" />
+              <option name="myItemId" value="Main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="NeuralNetworkNote" />
+              <option name="myItemId" value="lec3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -379,7 +609,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="ThinkLikeAHuman" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2016/NeuralNetworkNote/GradientUpdateNote.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\JonathanSum\ThinkLikeAHuman\2016\NeuralNetworkNote\DifferentGradientNote.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -605,20 +835,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="488" y="103" width="1430" height="923" extended-state="0" />
-    <editor active="true" />
+    <frame x="294" y="307" width="1350" height="840" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37153286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44496125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37053087" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43455496" sideWeight="0.4936034" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32779098" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32738096" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43455496" sideWeight="0.4936034" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2853403" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3968254" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -668,7 +897,7 @@
           <url>file://$USER_HOME$/Anaconda33/Lib/DataPack/__init__.py</url>
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/2016/lec1/KK.py</url>
+          <url>file://$PROJECT_DIR$/Main/lec1/KK.py</url>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
@@ -677,21 +906,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2016/Forward/BackwardAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016/Network.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="76" lean-forward="false" selection-start-line="0" selection-start-column="76" selection-end-line="0" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016/Xavier_initialization.py">
+    <entry file="file://$PROJECT_DIR$/Main/Xavier_initialization.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="69" lean-forward="false" selection-start-line="3" selection-start-column="69" selection-end-line="3" selection-end-column="69" />
@@ -699,14 +914,14 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python35/site-packages/numpy/core/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/2016/intejbackground/DataStruNote/imging.py">
+    <entry file="file://$PROJECT_DIR$/Main/intejbackground/DataStruNote/imging.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/intejbackground/DataStruNote/Image1.py">
+    <entry file="file://$PROJECT_DIR$/Main/intejbackground/DataStruNote/Image1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
@@ -720,14 +935,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/Vectorized.py">
+    <entry file="file://$PROJECT_DIR$/Main/Vectorized.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="76" lean-forward="false" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/lec1/BasicTrain.py">
+    <entry file="file://$PROJECT_DIR$/Main/lec1/BasicTrain.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
           <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
@@ -742,14 +957,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2016/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/2016/lec1/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Main/lec1/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/ef.jpg">
+    <entry file="file://$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/ef.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -774,7 +989,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2016/Linear Classification Note/DataPack/DataPack/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/2016/UnPackFile.py">
+    <entry file="file://$PROJECT_DIR$/Main/UnPackFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="26" />
@@ -789,14 +1004,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/DataPack/UnPackFile.py">
+    <entry file="file://$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/DataPack/UnPackFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="31" column="11" lean-forward="false" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/lec1/UnPackFile.py">
+    <entry file="file://$PROJECT_DIR$/Main/lec1/UnPackFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-255">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -817,28 +1032,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/lec1/imging.py">
+    <entry file="file://$PROJECT_DIR$/Main/lec1/imging.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/lec1/Image1.py">
+    <entry file="file://$PROJECT_DIR$/Main/lec1/Image1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/lec1/1.py">
+    <entry file="file://$PROJECT_DIR$/Main/lec1/1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/DataPack/__init__.py">
+    <entry file="file://$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/DataPack/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
@@ -846,14 +1061,14 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/numpy/lib/function_base.py" />
-    <entry file="file://$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/Lec2.py">
+    <entry file="file://$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/Lec2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/lec3/A first very bad idea solution_Random search.py">
+    <entry file="file://$PROJECT_DIR$/Main/lec3/A first very bad idea solution_Random search.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
@@ -861,50 +1076,42 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/numpy/core/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/2016/lec3/MaxtrixGradien_note.py">
+    <entry file="file://$PROJECT_DIR$/Main/lec3/MaxtrixGradien_note.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/NeuralNetworkNote/TrainingNeural.py">
+    <entry file="file://$PROJECT_DIR$/Main/NeuralNetworkNote/TrainingNeural.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/NeuralNetworkExample.py">
+    <entry file="file://$PROJECT_DIR$/Main/NeuralNetworkExample.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/lec3/Gradient_back_drop_note.py">
+    <entry file="file://$PROJECT_DIR$/Main/lec3/Gradient_back_drop_note.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
           <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="e#152#215#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/lec1/NN.py">
+    <entry file="file://$PROJECT_DIR$/Main/lec1/NN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="21" column="18" lean-forward="false" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/lec1/KK.py">
+    <entry file="file://$PROJECT_DIR$/Main/lec1/KK.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="29" />
@@ -914,49 +1121,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/Linear Classification Note and use it to build build it from scratch/simpleTraining.py">
+    <entry file="file://$PROJECT_DIR$/Main/Linear Classification Note and use it to build build it from scratch/simpleTraining.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1154">
           <caret line="68" column="4" lean-forward="false" selection-start-line="68" selection-start-column="4" selection-end-line="68" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/NeuralNetworkNote/DataPreprocessingNote.py">
+    <entry file="file://$PROJECT_DIR$/Main/NeuralNetworkNote/DataPreprocessingNote.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/lec3/Two_Gradient_Numerically.py">
+    <entry file="file://$PROJECT_DIR$/Main/lec3/Two_Gradient_Numerically.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="557">
           <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/NeuralNetworkNote/LearningNote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="e#55#73#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/NeuralNetworkNote/DifferentGradientNote.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/lec3/GradientPart2.py">
+    <entry file="file://$PROJECT_DIR$/Main/NeuralNetworkNote/Note1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016/GradientDescentTwoVar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016/NeuralNetworkNote/Note1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="136">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -964,28 +1170,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/NeuralNetworkNote/LearningNote.py">
+    <entry file="file://$PROJECT_DIR$/Main/Note8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <element signature="e#55#73#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2016/Gradient Descent.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2016/NeuralNetworkNote/GradientUpdateNote.py">
+    <entry file="file://$PROJECT_DIR$/Main/lec8/FrameworkNote.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="30" column="8" lean-forward="true" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/lec3/GradientPart2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/GradientDescentTwoVar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main/Gradient Descent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding />
         </state>
       </provider>
